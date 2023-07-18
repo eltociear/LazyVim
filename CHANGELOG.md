@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.2.0](https://github.com/LazyVim/LazyVim/compare/v5.1.1...v5.2.0) (2023-07-18)
+
+
+### Features
+
+* **keymaps:** added leader-K to run keywordprg ([a28acf0](https://github.com/LazyVim/LazyVim/commit/a28acf0ce7d00af11e7268c9edff579bd06abf56))
+
 ## [5.1.1](https://github.com/LazyVim/LazyVim/compare/v5.1.0...v5.1.1) (2023-07-16)
 
 
